@@ -1,0 +1,20 @@
+& param
+Ne = 128
+z0 = 0
+zex = 15
+zexi = 15
+TauEnd = 700
+Delta = 0.6
+I0 = 0.01
+g = 1.5
+Nz = 150
+Nzi = 1500
+INTT = 1
+INTZ = 1
+a0 = 0.1
+mode = 0
+akp2 = 0
+nexl = 0
+nexr = 0
+tol = 1e-9
+/
